@@ -1,0 +1,43 @@
+Exploratory Analysis of School Payments & Attendance
+Decision-Support Case Study
+Context
+
+This case study analyzes operational school data to support administrative decision-making related to fee compliance and student attendance. The goal is to understand observable patterns while acknowledging real-world data limitations.
+
+Dataset
+
+Source: Anonymized operational school records
+
+Scope: Single academic term
+
+Records: Student-level data
+
+Key Fields: Class, Payment Status, Amount Paid, Expected Fee, Attendance Rate
+
+Key Findings
+
+Students with unpaid or partially paid fees exhibit noticeably lower average attendance than fully paid students.
+
+Outstanding fee balances are not evenly distributed and are concentrated within specific classes.
+
+Payment compliance varies by class, suggesting targeted financial monitoring may be more effective than uniform interventions.
+
+What the Data Cannot Tell Us
+
+Whether unpaid fees cause lower attendance or are correlated due to external factors.
+
+The role of household income, financial hardship, or policy enforcement.
+
+Long-term behavioral trends beyond the analyzed term.
+
+Recommendations
+
+Use payment and attendance data together as a monitoring tool rather than a punitive measure.
+
+Focus administrative attention on classes with higher outstanding balances.
+
+Combine quantitative analysis with qualitative follow-ups to understand root causes.
+
+Conclusion
+
+This analysis demonstrates how structured exploration of operational data can inform administrative judgment while remaining transparent about uncertainty and limitations.
