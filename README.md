@@ -20,7 +20,11 @@ and attendance rates.
 - Payment data reflects a single academic term.
 
 ### 5. Summary of Findings
-(To be completed after analysis)
+- Students with unpaid or partially paid fees show lower average attendance compared to fully paid students.
+- Outstanding fee balances are concentrated in specific classes.
+- Payment compliance varies meaningfully across class groups.
 
 ### 6. Recommendations
-(To be completed after analysis)
+- Prioritize follow-up and engagement strategies for classes with higher outstanding balances.
+- Monitor attendance patterns alongside payment status as an early risk indicator.
+- Avoid assuming causation; supplement analysis with qualitative insights where possible.
